@@ -41,11 +41,11 @@ const CONFIG = {
     { foto: "assets/fotos/foto-01.jpg", texto: "Esa noche en el mirador" },
     { foto: "assets/fotos/foto-02.jpg", texto: "Bogotá entera debajo de nosotros" },
     { foto: "assets/fotos/foto-03.jpg", texto: "Contigo hasta las fotos salen mejor" },
-    { foto: "assets/fotos/foto-04.jpg", texto: "Un café que duró horas" },
+    { foto: "assets/fotos/foto-04.jpg", texto: "Un café y un postre eterno" },
     { foto: "assets/fotos/foto-05.jpg", texto: "Me gusta este abrazo" },
     { foto: "assets/fotos/foto-06.jpg", texto: "Tú, en un día cualquiera" },
-    { foto: "assets/fotos/foto-07.jpg", texto: "Las mañanas lentas" },
-    { foto: "assets/fotos/foto-08.jpg", texto: "Guardo esta sonrisa" }
+    { foto: "assets/fotos/foto-07.jpg", texto: "Tu la menos tintera 😍" },
+    { foto: "assets/fotos/foto-08.jpg", texto: "Que hermosa es mi nv" }
   ],
 
   /* --- SECCIÓN 4: Lo que me haces sentir ---
@@ -71,15 +71,18 @@ const CONFIG = {
      Edítala con tus propias palabras: entre más tuya, mejor. */
   carta: {
     titulo: "Una carta para ti",
-    saludo: "Para ti,",
+    saludo: "Mi bellorita,",
     parrafos: [
-      "No soy el mejor con las palabras, pero quería dejarte algo escrito para este primer mes.",
-      "Me gusta lo fácil que es estar contigo. Cómo pasa el tiempo sin que me dé cuenta y cómo, incluso en lo simple, la paso bien a tu lado.",
-      "Gracias por estas semanas. Por tu compañía, por tu forma de ser, por aparecer.",
-      "Apenas estamos empezando y ya me gusta hacia dónde va esto. Espero que sigamos sumando momentos como los de este mes.",
-      "Gracias por este primer mes."
-    ],
-    firma: "Con cariño."
+  "Quizás no sea el mejor con las palabras, pero hay cosas que merecen ser escritas, y hoy, que cumplimos nuestro primer mes, quería dedicarte unas cuantas.",
+  "Me encanta lo fácil que es estar contigo, cómo el tiempo pasa sin que me dé cuenta y cómo hasta los momentos más sencillos se convierten en algo especial cuando los comparto a tu lado. Me gustan nuestras conversaciones, nuestras risas, tu forma de ser y esa bonita sensación que me queda cada vez que estoy contigo.",
+  "Gracias por estas semanas, por tu compañía, tu cariño, cada detalle y por permitirme conocerte un poquito más cada día. Me alegra mucho que nuestros caminos se hayan encontrado y que estemos construyendo algo tan bonito.",
+  "Y quiero que sepas algo: si hace un mes me preguntabas cuánto me gustabas, hoy, después de estos 31 días, puedo decirte que me gustas muchísimo más. Lejos de que la emoción del comienzo se haya ido, cada día encuentro algo nuevo que me hace admirarte, quererte y tener más ganas de seguir compartiendo contigo. Si algo ha cambiado en este primer mes, es que hoy me gustas mucho más que el día en que empezamos.",
+  "Sé que apenas estamos comenzando, pero me ilusiona pensar en todo lo que todavía nos queda por vivir, los recuerdos que nos esperan y las historias que aún nos faltan por escribir.",
+  "Ojalá este sea solamente el primero de muchísimos meses juntos. Me gustaría seguir disfrutando de ti, descubriéndote y construyendo algo cada vez más bonito, sin prisas, pero con muchas ganas.",
+  "Gracias por este primer mes, preciosa. Me haces muy feliz. ❤️"
+],
+    firma: "Con cariño.",
+    firma: "Tu novio John Jimenez."
   },
 
   /* --- SECCIÓN 7: Cierre --- */
