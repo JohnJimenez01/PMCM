@@ -14,7 +14,7 @@ const CONFIG = {
   /* --- Música de fondo (opcional) ---
      Pon tu archivo en assets/musica/ y escribe aquí su nombre.
      Si lo dejas vacío (""), no aparece el botón de música. */
-  musica: "",                         // ej: "assets/musica/cancion.mp3"
+  musica: "assets/musica/cancion.mp3",                         // ej: "assets/musica/cancion.mp3"
 
   /* --- SECCIÓN 1: Bienvenida --- */
   bienvenida: {
